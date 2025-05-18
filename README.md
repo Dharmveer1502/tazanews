@@ -1,1 +1,1 @@
-# tazanews
+# NewsPortal
